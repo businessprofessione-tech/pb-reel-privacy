@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-10",
+  "owner": "CLOUD",
+  "buttons_id": 59,
+  "preview_id": 58,
+  "kind": "nuovo",
+  "format": "reel",
+  "title": "Ferrero: la qualità (Pixabay)",
+  "caption": "Ferrero: la regola del dettaglio che nessuno vede.\n\nDa una pasta di nocciole e cacao creata nel dopoguerra a Alba, la famiglia Ferrero ha costruito uno dei più grandi gruppi dolciari del mondo. Il segreto non è stato il marketing: è stata l'ossessione per la qualità del prodotto, un dettaglio dopo l'altro.\n\nNel business vince chi cura ciò che il cliente non vede, ma sente.\n\nSalva il reel e segui @professionebusiness per una regola di business al giorno.\n\n#ferrero #businessmindset #imprenditori #qualita #regoledibusiness",
+  "meta": {
+    "formato_dettaglio": "reel-stock",
+    "tema": "La qualità è la regola che nessuno vede",
+    "caso": "Ferrero",
+    "hook": "contrasto",
+    "keyword": [
+      "qualità",
+      "business mindset",
+      "Ferrero"
+    ],
+    "fonti_trend": [],
+    "fonte_video": "pixabay",
+    "stock_id": 113963,
+    "musica": "music_for_creators-cinematic-motivational-136831.mp3",
+    "is_ai_generated": false,
+    "source_media_id": null,
+    "contenuto_terzi": false,
+    "giri_modifica": 0
+  },
+  "sent_at": "2026-10-10T08:22:35",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://businessprofessione-tech.github.io/pb-reel-privacy/media/20261010-082235-1.mp4"
+    }
+  ]
+}
